@@ -27,7 +27,7 @@ samples, guidance on mobile development, and a full API reference.
 ![List Of Country data](https://drive.google.com/uc?export=view&id=1Dxq6As8l_nXIrm-jHeyrh275fQbOFY3l)
 
 ### Link for the api I used
-![API link](https://api.covid19api.com/)
+- [API link](https://api.covid19api.com/)
 
 ### Apk download Link
 - [Apk: Get the apk file here](https://drive.google.com/file/d/1yQQWeR54765UpLFVeK2oCRTKtawv9jYo/view)
